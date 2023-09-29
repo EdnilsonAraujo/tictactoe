@@ -5,9 +5,11 @@
     "react-scripts": "^5.0.0"
   },
   "main": "/index.js",
-  "devDependencies": {},
-  "name": "vy6j3f",
-  "description": null,
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
+  "name": "tictactoe",
+  "description": "Jogo Tic Tac  Toe",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
